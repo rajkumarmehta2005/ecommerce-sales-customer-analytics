@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Unit_Price
+2001,Laptop Pro 14,Electronics,Laptops,65000,85000
+2002,Laptop Air 13,Electronics,Laptops,48000,65000
+2003,Wireless Mouse,Electronics,Accessories,500,900
+2004,Mechanical Keyboard,Electronics,Accessories,1800,3200
+2005,Smartphone X,Electronics,Mobiles,22000,32000
+2006,Smartphone Lite,Electronics,Mobiles,11000,16000
+2007,Bluetooth Headphones,Electronics,Audio,1800,3500
+2008,Smart Watch,Electronics,Wearables,2500,5000
+2009,Office Chair,Furniture,Chairs,5500,8500
+2010,Study Table,Furniture,Tables,4500,7500
+2011,Bookshelf,Furniture,Storage,3000,5200
+2012,Bedside Lamp,Home,Lighting,700,1400
+2013,Coffee Maker,Home,Kitchen,2200,4200
+2014,Air Fryer,Home,Kitchen,3500,6000
+2015,Running Shoes,Fashion,Footwear,1800,3200
+2016,Casual Sneakers,Fashion,Footwear,1400,2600
+2017,Backpack,Fashion,Bags,900,1800
+2018,Jacket,Fashion,Clothing,1800,3500
+2019,Yoga Mat,Sports,Fitness,500,1000
+2020,Dumbbell Set,Sports,Fitness,1800,3500

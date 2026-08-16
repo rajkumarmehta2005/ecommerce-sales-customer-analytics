@@ -1,0 +1,652 @@
+Order_ID,Return_Date,Return_Reason
+50008,2024-06-13,Wrong Product
+50011,2025-03-22,Changed Mind
+50016,2025-05-06,Wrong Product
+50019,2025-12-05,Quality Issue
+50027,2025-08-26,Wrong Product
+50031,2025-06-10,Late Delivery
+50038,2024-01-15,Damaged
+50045,2024-08-29,Damaged
+50050,2025-11-09,Changed Mind
+50090,2024-11-24,Quality Issue
+50103,2025-02-24,Changed Mind
+50120,2025-05-30,Wrong Product
+50130,2024-05-03,Wrong Product
+50134,2025-12-08,Wrong Product
+50141,2024-01-24,Quality Issue
+50144,2024-08-04,Damaged
+50145,2025-07-18,Late Delivery
+50179,2024-08-19,Late Delivery
+50183,2024-06-13,Wrong Product
+50185,2024-11-30,Wrong Product
+50189,2024-10-14,Wrong Product
+50190,2024-08-21,Quality Issue
+50206,2025-11-17,Late Delivery
+50211,2024-02-19,Changed Mind
+50251,2025-11-10,Damaged
+50260,2025-04-05,Changed Mind
+50275,2024-02-18,Damaged
+50285,2024-10-15,Quality Issue
+50353,2024-08-13,Damaged
+50365,2024-07-26,Quality Issue
+50367,2025-12-01,Late Delivery
+50375,2024-11-07,Damaged
+50390,2024-03-02,Wrong Product
+50391,2024-08-08,Wrong Product
+50405,2025-04-29,Quality Issue
+50411,2025-02-03,Late Delivery
+50420,2025-04-15,Quality Issue
+50421,2024-08-23,Changed Mind
+50429,2025-03-15,Changed Mind
+50445,2025-12-20,Changed Mind
+50502,2025-09-10,Wrong Product
+50515,2025-06-05,Changed Mind
+50519,2024-05-09,Damaged
+50522,2024-08-24,Changed Mind
+50530,2024-04-04,Wrong Product
+50549,2024-12-05,Damaged
+50552,2025-11-24,Late Delivery
+50556,2024-06-16,Quality Issue
+50560,2024-09-11,Quality Issue
+50565,2025-10-16,Damaged
+50573,2024-05-17,Damaged
+50582,2024-07-06,Quality Issue
+50616,2025-11-19,Quality Issue
+50649,2025-12-14,Damaged
+50650,2025-07-06,Quality Issue
+50653,2024-11-17,Late Delivery
+50656,2024-07-25,Changed Mind
+50663,2025-02-19,Changed Mind
+50710,2025-08-28,Late Delivery
+50740,2024-10-15,Changed Mind
+50757,2025-01-23,Changed Mind
+50790,2024-11-30,Changed Mind
+50792,2025-03-22,Wrong Product
+50837,2025-09-05,Late Delivery
+50842,2024-03-16,Quality Issue
+50870,2025-01-19,Damaged
+50874,2025-12-29,Late Delivery
+50881,2025-03-19,Late Delivery
+50885,2025-03-08,Wrong Product
+50890,2025-07-04,Wrong Product
+50895,2024-02-19,Changed Mind
+50917,2024-04-05,Wrong Product
+50924,2024-12-10,Quality Issue
+50930,2024-04-23,Quality Issue
+50940,2025-10-06,Changed Mind
+50969,2024-02-11,Wrong Product
+50970,2025-10-19,Changed Mind
+50971,2025-08-25,Damaged
+50976,2025-07-12,Wrong Product
+50978,2025-04-14,Wrong Product
+51015,2025-06-16,Wrong Product
+51048,2025-12-05,Wrong Product
+51051,2025-06-09,Quality Issue
+51054,2025-07-07,Changed Mind
+51055,2025-07-02,Quality Issue
+51061,2025-10-19,Changed Mind
+51081,2024-05-24,Damaged
+51093,2024-12-24,Wrong Product
+51094,2025-12-18,Late Delivery
+51118,2024-06-13,Quality Issue
+51143,2025-07-27,Late Delivery
+51149,2025-11-25,Damaged
+51166,2024-11-05,Late Delivery
+51168,2024-08-24,Damaged
+51180,2024-05-22,Quality Issue
+51186,2025-11-14,Damaged
+51190,2025-11-14,Quality Issue
+51199,2024-04-23,Quality Issue
+51203,2024-08-02,Late Delivery
+51220,2024-05-24,Changed Mind
+51223,2024-03-05,Changed Mind
+51267,2025-07-04,Changed Mind
+51268,2024-06-13,Wrong Product
+51291,2024-11-11,Late Delivery
+51296,2024-09-25,Damaged
+51309,2025-08-18,Changed Mind
+51315,2024-03-12,Late Delivery
+51318,2024-02-10,Wrong Product
+51322,2024-05-22,Late Delivery
+51327,2024-09-14,Damaged
+51345,2025-09-20,Changed Mind
+51355,2024-12-17,Damaged
+51365,2024-02-19,Wrong Product
+51384,2025-11-14,Damaged
+51393,2025-10-14,Wrong Product
+51395,2025-06-10,Damaged
+51398,2025-01-09,Wrong Product
+51402,2025-02-09,Late Delivery
+51403,2025-09-01,Late Delivery
+51418,2024-12-26,Late Delivery
+51419,2025-09-27,Late Delivery
+51420,2024-12-29,Damaged
+51455,2025-03-06,Quality Issue
+51461,2024-11-27,Wrong Product
+51473,2024-04-23,Wrong Product
+51509,2024-12-14,Quality Issue
+51552,2024-03-30,Wrong Product
+51560,2024-07-09,Wrong Product
+51569,2024-08-21,Late Delivery
+51594,2024-07-17,Wrong Product
+51628,2024-04-13,Wrong Product
+51631,2024-06-05,Changed Mind
+51648,2024-12-10,Wrong Product
+51652,2024-09-25,Quality Issue
+51654,2024-08-02,Wrong Product
+51663,2024-01-15,Quality Issue
+51680,2025-09-22,Wrong Product
+51707,2024-10-14,Quality Issue
+51727,2024-03-19,Wrong Product
+51739,2024-10-21,Wrong Product
+51766,2025-08-02,Changed Mind
+51773,2025-11-07,Changed Mind
+51785,2025-08-04,Wrong Product
+51786,2025-07-25,Changed Mind
+51789,2025-10-15,Damaged
+51796,2024-06-27,Damaged
+51822,2024-03-08,Late Delivery
+51829,2024-06-14,Late Delivery
+51840,2024-05-02,Damaged
+51841,2024-10-26,Late Delivery
+51842,2025-10-04,Wrong Product
+51854,2025-07-04,Wrong Product
+51860,2024-03-26,Late Delivery
+51867,2025-05-27,Damaged
+51893,2024-07-19,Quality Issue
+51909,2025-03-01,Wrong Product
+51927,2025-08-02,Changed Mind
+51928,2024-09-05,Quality Issue
+51930,2024-06-19,Changed Mind
+51942,2024-12-06,Wrong Product
+51951,2024-02-09,Late Delivery
+51959,2025-11-22,Changed Mind
+51961,2024-02-03,Damaged
+51963,2024-10-23,Changed Mind
+51968,2025-05-20,Damaged
+51972,2025-04-18,Quality Issue
+51995,2024-08-18,Quality Issue
+51999,2025-07-06,Late Delivery
+52002,2024-03-14,Damaged
+52020,2025-11-11,Late Delivery
+52029,2024-03-17,Changed Mind
+52033,2025-02-03,Late Delivery
+52038,2025-04-17,Changed Mind
+52041,2024-09-12,Quality Issue
+52074,2025-11-25,Late Delivery
+52076,2024-09-10,Quality Issue
+52084,2024-01-16,Changed Mind
+52086,2024-04-30,Damaged
+52089,2024-04-18,Wrong Product
+52101,2025-10-10,Changed Mind
+52103,2025-10-31,Changed Mind
+52127,2024-12-20,Wrong Product
+52131,2024-11-12,Wrong Product
+52176,2024-10-02,Quality Issue
+52196,2025-02-04,Changed Mind
+52200,2025-12-05,Changed Mind
+52223,2025-08-02,Late Delivery
+52224,2024-12-14,Wrong Product
+52241,2024-07-03,Damaged
+52243,2024-03-02,Changed Mind
+52245,2025-07-14,Late Delivery
+52248,2025-10-29,Damaged
+52295,2024-08-05,Quality Issue
+52298,2024-07-31,Late Delivery
+52317,2025-08-15,Damaged
+52325,2024-11-30,Changed Mind
+52331,2024-12-09,Late Delivery
+52338,2024-04-08,Wrong Product
+52367,2024-06-25,Damaged
+52369,2024-02-01,Changed Mind
+52400,2025-07-02,Late Delivery
+52403,2025-09-24,Damaged
+52404,2025-05-12,Quality Issue
+52405,2024-03-07,Quality Issue
+52411,2025-05-12,Wrong Product
+52424,2024-06-28,Late Delivery
+52472,2025-11-19,Late Delivery
+52474,2024-08-11,Wrong Product
+52517,2025-07-27,Late Delivery
+52540,2025-09-16,Quality Issue
+52545,2025-07-17,Quality Issue
+52556,2024-08-31,Wrong Product
+52580,2025-10-12,Changed Mind
+52581,2025-04-13,Wrong Product
+52588,2024-02-22,Quality Issue
+52594,2025-01-15,Wrong Product
+52599,2024-06-21,Quality Issue
+52604,2026-01-01,Changed Mind
+52608,2024-07-26,Quality Issue
+52620,2024-10-14,Late Delivery
+52635,2025-05-21,Damaged
+52636,2026-01-10,Changed Mind
+52642,2024-02-10,Damaged
+52645,2025-06-24,Changed Mind
+52664,2025-10-12,Changed Mind
+52674,2025-09-17,Changed Mind
+52676,2025-11-15,Changed Mind
+52691,2025-03-20,Quality Issue
+52694,2025-11-29,Late Delivery
+52710,2025-04-04,Quality Issue
+52726,2025-02-21,Quality Issue
+52741,2025-04-10,Late Delivery
+52754,2024-07-18,Changed Mind
+52776,2025-04-15,Late Delivery
+52790,2024-09-08,Damaged
+52806,2024-06-07,Late Delivery
+52829,2024-04-29,Quality Issue
+52893,2024-03-12,Changed Mind
+52899,2024-12-08,Quality Issue
+52919,2025-04-20,Damaged
+52924,2024-06-22,Changed Mind
+52930,2025-02-23,Wrong Product
+52931,2025-01-21,Quality Issue
+52945,2025-02-06,Quality Issue
+52947,2024-09-25,Late Delivery
+52950,2025-04-03,Changed Mind
+52972,2024-07-12,Quality Issue
+52977,2024-07-18,Damaged
+52980,2025-07-18,Changed Mind
+53003,2024-11-22,Changed Mind
+53041,2026-01-01,Late Delivery
+53043,2025-02-25,Quality Issue
+53047,2025-07-06,Quality Issue
+53063,2025-11-16,Wrong Product
+53072,2025-01-16,Wrong Product
+53085,2024-03-09,Changed Mind
+53102,2024-08-24,Quality Issue
+53122,2024-10-07,Late Delivery
+53144,2024-07-06,Quality Issue
+53147,2025-12-19,Late Delivery
+53154,2024-07-07,Wrong Product
+53166,2025-10-03,Damaged
+53192,2025-11-06,Quality Issue
+53200,2025-01-18,Wrong Product
+53211,2025-07-29,Damaged
+53212,2025-05-15,Damaged
+53222,2024-04-14,Wrong Product
+53236,2025-12-02,Wrong Product
+53237,2025-12-07,Wrong Product
+53251,2026-01-08,Late Delivery
+53261,2025-09-23,Changed Mind
+53264,2025-11-21,Changed Mind
+53270,2024-09-03,Changed Mind
+53274,2025-04-09,Late Delivery
+53275,2025-08-03,Wrong Product
+53284,2025-04-30,Changed Mind
+53285,2024-12-18,Late Delivery
+53311,2025-04-24,Late Delivery
+53318,2025-09-02,Wrong Product
+53356,2024-10-30,Damaged
+53370,2025-09-18,Late Delivery
+53394,2024-08-01,Quality Issue
+53412,2025-01-24,Late Delivery
+53473,2025-01-09,Damaged
+53489,2024-04-16,Damaged
+53495,2025-08-07,Quality Issue
+53539,2024-11-17,Changed Mind
+53547,2025-05-11,Late Delivery
+53561,2024-10-15,Wrong Product
+53574,2024-11-09,Wrong Product
+53604,2024-05-18,Quality Issue
+53608,2025-05-01,Damaged
+53631,2024-03-09,Changed Mind
+53659,2024-02-07,Late Delivery
+53698,2024-04-21,Late Delivery
+53703,2024-04-18,Late Delivery
+53717,2024-03-28,Wrong Product
+53729,2024-10-08,Changed Mind
+53742,2024-02-05,Quality Issue
+53751,2025-07-07,Wrong Product
+53757,2025-05-02,Damaged
+53811,2024-10-21,Changed Mind
+53820,2024-01-26,Damaged
+53822,2024-07-25,Late Delivery
+53823,2025-08-17,Wrong Product
+53840,2025-04-15,Changed Mind
+53856,2025-09-16,Wrong Product
+53873,2025-08-24,Changed Mind
+53876,2024-08-03,Late Delivery
+53896,2025-06-26,Changed Mind
+53906,2024-09-27,Late Delivery
+53909,2024-06-17,Wrong Product
+53917,2025-04-19,Wrong Product
+53926,2025-01-11,Wrong Product
+53941,2024-06-15,Late Delivery
+53945,2024-10-29,Damaged
+53947,2025-03-06,Damaged
+53949,2024-06-14,Changed Mind
+53974,2025-01-25,Wrong Product
+54010,2024-05-12,Damaged
+54033,2024-09-02,Quality Issue
+54034,2024-08-29,Wrong Product
+54039,2024-04-28,Quality Issue
+54053,2025-04-27,Damaged
+54060,2025-06-11,Late Delivery
+54079,2025-07-13,Quality Issue
+54080,2024-10-21,Quality Issue
+54089,2024-04-08,Wrong Product
+54111,2025-08-09,Changed Mind
+54122,2025-04-13,Late Delivery
+54139,2024-03-29,Wrong Product
+54143,2024-09-28,Wrong Product
+54175,2025-09-10,Damaged
+54177,2024-03-25,Changed Mind
+54178,2025-10-21,Changed Mind
+54181,2024-06-30,Late Delivery
+54194,2024-10-03,Late Delivery
+54198,2024-05-23,Changed Mind
+54223,2025-09-11,Quality Issue
+54236,2025-02-18,Quality Issue
+54239,2025-02-11,Wrong Product
+54250,2024-03-10,Changed Mind
+54263,2024-04-02,Wrong Product
+54267,2024-09-23,Quality Issue
+54273,2024-02-05,Late Delivery
+54320,2025-01-23,Changed Mind
+54337,2024-05-10,Damaged
+54346,2025-12-13,Wrong Product
+54348,2024-09-10,Changed Mind
+54361,2025-01-11,Damaged
+54369,2024-04-14,Wrong Product
+54375,2024-11-08,Quality Issue
+54393,2025-12-24,Wrong Product
+54476,2024-02-16,Late Delivery
+54482,2025-08-15,Wrong Product
+54486,2025-12-06,Wrong Product
+54497,2024-06-29,Changed Mind
+54515,2025-06-13,Changed Mind
+54520,2025-04-07,Quality Issue
+54544,2024-04-03,Late Delivery
+54561,2024-08-14,Late Delivery
+54566,2024-06-19,Quality Issue
+54569,2025-07-11,Damaged
+54571,2024-12-25,Wrong Product
+54578,2025-06-29,Changed Mind
+54586,2024-12-28,Quality Issue
+54616,2025-09-23,Quality Issue
+54621,2024-11-22,Changed Mind
+54635,2025-02-05,Changed Mind
+54665,2024-10-01,Damaged
+54669,2024-10-29,Late Delivery
+54674,2024-07-08,Changed Mind
+54683,2024-10-05,Quality Issue
+54689,2025-08-13,Wrong Product
+54693,2025-10-20,Damaged
+54713,2025-03-26,Wrong Product
+54718,2024-08-10,Wrong Product
+54722,2025-09-16,Late Delivery
+54738,2025-12-13,Wrong Product
+54745,2025-04-22,Quality Issue
+54754,2024-02-20,Quality Issue
+54775,2025-10-14,Changed Mind
+54798,2025-04-24,Late Delivery
+54810,2025-07-24,Changed Mind
+54828,2026-01-06,Wrong Product
+54832,2025-12-26,Quality Issue
+54836,2025-11-30,Changed Mind
+54844,2024-01-19,Quality Issue
+54857,2025-01-17,Changed Mind
+54873,2025-07-07,Damaged
+54878,2024-05-19,Late Delivery
+54886,2024-12-03,Changed Mind
+54890,2024-01-30,Wrong Product
+54892,2025-08-18,Quality Issue
+54933,2025-02-18,Quality Issue
+54938,2024-08-05,Late Delivery
+54941,2025-06-09,Late Delivery
+54948,2024-02-24,Damaged
+54956,2024-11-07,Changed Mind
+54967,2026-01-07,Damaged
+54974,2025-07-29,Changed Mind
+54984,2025-08-19,Changed Mind
+55001,2024-08-07,Late Delivery
+55007,2024-02-27,Late Delivery
+55019,2024-05-19,Changed Mind
+55029,2025-09-05,Late Delivery
+55043,2024-10-05,Changed Mind
+55048,2024-08-01,Late Delivery
+55056,2024-06-30,Wrong Product
+55073,2025-12-31,Changed Mind
+55076,2025-01-26,Quality Issue
+55091,2025-11-16,Wrong Product
+55123,2024-11-22,Damaged
+55138,2024-07-29,Late Delivery
+55164,2025-05-27,Damaged
+55184,2025-11-27,Quality Issue
+55207,2025-03-09,Late Delivery
+55213,2025-11-28,Damaged
+55225,2024-05-31,Wrong Product
+55239,2024-06-30,Damaged
+55244,2024-12-29,Late Delivery
+55247,2025-06-18,Wrong Product
+55274,2024-11-27,Quality Issue
+55279,2024-12-13,Damaged
+55296,2024-07-19,Changed Mind
+55301,2024-10-06,Late Delivery
+55309,2025-02-11,Changed Mind
+55318,2025-08-11,Changed Mind
+55321,2024-04-30,Damaged
+55336,2025-02-08,Changed Mind
+55341,2025-02-27,Wrong Product
+55343,2024-02-01,Quality Issue
+55355,2024-11-25,Quality Issue
+55356,2024-01-04,Changed Mind
+55361,2024-11-25,Late Delivery
+55369,2024-07-20,Changed Mind
+55376,2025-07-13,Late Delivery
+55382,2025-06-30,Quality Issue
+55414,2025-09-08,Wrong Product
+55418,2024-04-09,Late Delivery
+55423,2024-04-01,Quality Issue
+55481,2025-12-03,Damaged
+55485,2024-02-05,Changed Mind
+55490,2024-03-12,Late Delivery
+55526,2024-03-22,Wrong Product
+55555,2025-03-26,Changed Mind
+55563,2024-02-20,Quality Issue
+55582,2024-07-09,Quality Issue
+55602,2025-09-21,Quality Issue
+55605,2024-03-07,Late Delivery
+55629,2025-11-22,Damaged
+55630,2024-04-21,Damaged
+55638,2024-01-17,Quality Issue
+55646,2025-10-06,Changed Mind
+55650,2024-11-28,Wrong Product
+55652,2024-03-29,Changed Mind
+55657,2025-08-22,Late Delivery
+55675,2025-10-18,Damaged
+55682,2025-08-31,Wrong Product
+55689,2024-04-27,Quality Issue
+55711,2025-10-01,Quality Issue
+55748,2025-11-15,Late Delivery
+55774,2024-07-20,Late Delivery
+55779,2025-05-03,Late Delivery
+55780,2025-12-31,Late Delivery
+55781,2024-05-05,Quality Issue
+55798,2025-10-23,Quality Issue
+55843,2024-07-03,Late Delivery
+55844,2025-08-24,Quality Issue
+55862,2025-02-11,Late Delivery
+55872,2024-03-22,Wrong Product
+55886,2025-11-25,Late Delivery
+55888,2025-08-13,Late Delivery
+55912,2025-08-23,Wrong Product
+55923,2025-04-03,Damaged
+55935,2024-09-26,Changed Mind
+55945,2025-08-26,Late Delivery
+55993,2024-11-10,Wrong Product
+55998,2025-01-03,Wrong Product
+56011,2025-04-26,Quality Issue
+56039,2024-11-18,Late Delivery
+56045,2024-12-11,Wrong Product
+56057,2025-10-19,Damaged
+56067,2024-12-22,Damaged
+56070,2025-05-14,Changed Mind
+56105,2024-04-24,Quality Issue
+56107,2024-02-29,Quality Issue
+56114,2024-10-20,Quality Issue
+56128,2024-10-01,Late Delivery
+56141,2025-03-03,Damaged
+56164,2025-07-26,Late Delivery
+56167,2024-07-16,Wrong Product
+56173,2025-06-11,Changed Mind
+56197,2025-07-14,Changed Mind
+56199,2025-12-03,Late Delivery
+56225,2024-04-10,Changed Mind
+56261,2025-03-10,Late Delivery
+56271,2025-05-15,Quality Issue
+56282,2024-09-19,Wrong Product
+56287,2024-10-27,Quality Issue
+56294,2024-12-15,Changed Mind
+56304,2024-06-07,Wrong Product
+56312,2024-07-13,Damaged
+56315,2025-07-11,Late Delivery
+56321,2025-05-20,Wrong Product
+56341,2025-02-18,Late Delivery
+56352,2025-07-02,Wrong Product
+56357,2024-06-23,Changed Mind
+56366,2025-10-13,Quality Issue
+56398,2025-05-13,Changed Mind
+56429,2025-12-12,Damaged
+56435,2024-05-30,Changed Mind
+56436,2024-09-15,Wrong Product
+56460,2025-04-27,Damaged
+56462,2025-08-09,Wrong Product
+56468,2024-01-22,Quality Issue
+56477,2025-12-13,Late Delivery
+56491,2025-09-13,Quality Issue
+56509,2024-08-02,Quality Issue
+56522,2025-04-21,Quality Issue
+56531,2025-11-27,Wrong Product
+56537,2024-02-24,Late Delivery
+56538,2024-11-29,Wrong Product
+56559,2024-02-02,Damaged
+56561,2026-01-03,Wrong Product
+56563,2025-01-24,Quality Issue
+56571,2025-08-17,Changed Mind
+56576,2024-01-13,Changed Mind
+56580,2025-08-13,Wrong Product
+56594,2024-12-15,Quality Issue
+56603,2024-09-19,Quality Issue
+56605,2024-12-21,Changed Mind
+56614,2024-02-17,Late Delivery
+56622,2025-10-30,Late Delivery
+56632,2025-08-02,Quality Issue
+56636,2024-03-25,Damaged
+56652,2025-10-20,Damaged
+56656,2025-01-09,Damaged
+56664,2024-12-17,Damaged
+56686,2025-03-19,Damaged
+56713,2024-04-16,Changed Mind
+56718,2025-04-07,Quality Issue
+56756,2024-12-05,Wrong Product
+56815,2025-07-22,Changed Mind
+56816,2024-07-11,Changed Mind
+56836,2025-05-31,Quality Issue
+56838,2025-05-18,Late Delivery
+56844,2024-11-11,Changed Mind
+56845,2024-03-09,Changed Mind
+56856,2025-10-18,Wrong Product
+56860,2025-09-10,Damaged
+56863,2025-04-24,Changed Mind
+56875,2025-11-06,Damaged
+56877,2024-02-15,Quality Issue
+56878,2025-01-08,Changed Mind
+56881,2024-03-15,Wrong Product
+56883,2026-01-10,Wrong Product
+56898,2025-06-18,Quality Issue
+56900,2024-07-11,Damaged
+56905,2024-08-27,Late Delivery
+56907,2025-06-11,Quality Issue
+56908,2024-07-21,Late Delivery
+56909,2024-02-24,Wrong Product
+56912,2025-06-08,Wrong Product
+56927,2025-01-14,Changed Mind
+56941,2024-08-20,Wrong Product
+56948,2025-06-07,Damaged
+56965,2024-08-23,Wrong Product
+56984,2025-04-29,Changed Mind
+57006,2024-04-11,Quality Issue
+57018,2025-09-19,Changed Mind
+57024,2024-11-22,Quality Issue
+57043,2025-12-01,Changed Mind
+57044,2024-12-17,Wrong Product
+57056,2024-06-11,Late Delivery
+57064,2024-03-02,Damaged
+57067,2025-08-22,Late Delivery
+57071,2025-10-21,Damaged
+57074,2025-08-07,Wrong Product
+57098,2025-11-13,Changed Mind
+57137,2025-06-19,Changed Mind
+57145,2024-08-02,Quality Issue
+57148,2024-09-24,Late Delivery
+57163,2025-05-18,Damaged
+57168,2025-12-01,Changed Mind
+57183,2025-01-12,Wrong Product
+57189,2024-01-22,Changed Mind
+57204,2024-09-11,Quality Issue
+57209,2025-08-26,Changed Mind
+57224,2024-09-21,Wrong Product
+57225,2026-01-06,Changed Mind
+57260,2024-04-23,Damaged
+57270,2025-04-13,Damaged
+57277,2024-01-23,Changed Mind
+57287,2024-07-23,Wrong Product
+57290,2025-02-27,Wrong Product
+57295,2024-06-13,Changed Mind
+57297,2024-08-09,Wrong Product
+57298,2025-01-14,Damaged
+57309,2025-02-28,Damaged
+57320,2024-09-23,Damaged
+57332,2025-06-24,Quality Issue
+57344,2024-07-06,Late Delivery
+57353,2024-06-15,Damaged
+57368,2025-12-13,Changed Mind
+57372,2025-08-26,Quality Issue
+57388,2025-02-17,Changed Mind
+57404,2025-05-28,Wrong Product
+57449,2024-07-31,Late Delivery
+57464,2024-05-19,Quality Issue
+57477,2025-08-29,Wrong Product
+57492,2025-01-07,Wrong Product
+57510,2024-05-29,Damaged
+57511,2025-11-11,Changed Mind
+57542,2026-01-04,Wrong Product
+57558,2025-04-12,Wrong Product
+57568,2025-04-17,Wrong Product
+57611,2024-06-23,Late Delivery
+57637,2024-04-02,Quality Issue
+57643,2025-11-15,Damaged
+57649,2025-12-05,Quality Issue
+57673,2024-07-25,Wrong Product
+57694,2025-07-01,Late Delivery
+57718,2025-06-02,Wrong Product
+57735,2024-06-07,Changed Mind
+57747,2025-02-08,Quality Issue
+57758,2025-03-26,Damaged
+57767,2025-11-19,Late Delivery
+57843,2025-10-27,Quality Issue
+57853,2024-04-08,Wrong Product
+57858,2024-09-14,Damaged
+57867,2025-06-14,Late Delivery
+57869,2025-07-08,Wrong Product
+57875,2024-09-09,Wrong Product
+57884,2025-11-05,Quality Issue
+57888,2024-06-12,Wrong Product
+57891,2024-05-07,Wrong Product
+57902,2025-12-26,Late Delivery
+57903,2024-04-23,Wrong Product
+57913,2025-08-26,Changed Mind
+57924,2024-11-24,Changed Mind
+57929,2024-06-20,Damaged
+57931,2025-06-28,Changed Mind
+57933,2025-11-03,Changed Mind
+57934,2024-04-07,Quality Issue
+57938,2025-04-16,Changed Mind
+57940,2025-11-10,Wrong Product
+57960,2024-07-12,Quality Issue
+57969,2025-01-26,Changed Mind
+57984,2025-11-06,Wrong Product
+57988,2025-11-14,Damaged
