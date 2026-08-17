@@ -74,37 +74,46 @@ Business Insights
 
 ## 📊 Power BI Dashboard
 
-The final Power BI report contains three pages.
+The project includes a 3-page interactive Power BI dashboard with dynamic Year and Category slicers.
 
 ### Page 1 — E-Commerce Executive Overview
 
-* Revenue
-* Profit
-* Orders
-* Return Rate
-* Monthly Revenue
-* Revenue by Category
-* Profit by Category
+![Executive Overview](screenshots/executive_overview.png)
+
+**Key Analysis:**
+- Revenue
+- Profit
+- Orders
+- Return Rate
+- Monthly Revenue
+- Revenue by Category
+- Profit by Category
 
 ### Page 2 — Product & Customer Performance
 
-* Total Customers
-* Total Products
-* Total Units Sold
-* Top 10 Customers
-* Top Products
-* Year and Category slicers
+![Product & Customer Performance](screenshots/product_customer.png)
+
+**Key Analysis:**
+- Total Customers
+- Total Products
+- Total Units Sold
+- Top 10 Customers
+- Top Products
+- Year and Category slicers
 
 ### Page 3 — Returns & Profitability Analysis
 
-* Total Orders
-* Returned Orders
-* Return Rate
-* Returns by Reason
-* Returned Orders by Category
-* Monthly Return Trend
-* Revenue vs Cost by Category
-* Year and Category slicers
+![Returns & Profitability](screenshots/returns_profitability.png)
+
+**Key Analysis:**
+- Total Orders
+- Returned Orders
+- Return Rate
+- Returns by Reason
+- Returned Orders by Category
+- Monthly Return Trend
+- Revenue vs Cost by Category
+- Year and Category slicers
 
 ---
 
